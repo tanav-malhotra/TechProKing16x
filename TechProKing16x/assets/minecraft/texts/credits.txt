@@ -76,7 +76,7 @@
 §f			Helios16x - Sun, moon, and water textures
 §f			Skyline16x & ggmen16x - cloud2.png and starfield03.png, respectively
 §f			DarkBlueNebula & DarkBlueRed - The other skies (cloud1 and skybox + skybox2, respectively)
-§f			CriticalForcefield-particles - Particles
+§f			Frinosx16-particles - Particles
 
 §Note:
 §f			This texture pack includes custom edits and modifications to textures, images, and other elements from various resource packs. As a result, the textures you see in this pack may differ from the original versions credited. I made these adjustments to enhance the overall experience and blend the elements harmoniously. Thank you for understanding!

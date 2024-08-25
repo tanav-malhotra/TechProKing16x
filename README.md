@@ -15,7 +15,8 @@
 - **Frinosx16-particles**: Particles
 
 ## Note:
-This texture pack includes custom edits and modifications to textures, images, and other elements from various resource packs. As a result, the textures you see in this pack may differ from the original versions credited. These adjustments were made to enhance the overall experience and blend the elements harmoniously. Thank you for understanding!
+- This texture pack includes custom edits and modifications to textures, images, and other elements from various resource packs. As a result, the textures you see in this pack may differ from the original versions credited. These adjustments were made to enhance the overall experience and blend the elements harmoniously. Thank you for understanding!
+- This texture pack was originally based on the Tenger16x texture pack, although many modifications have been made. Therefore, any elements in this pack that aren’t credited to other sources were taken from the Tenger16x texture pack, except for the hardcore hearts texture, which is custom (only the standard red-colored ones).
 
 ---
 

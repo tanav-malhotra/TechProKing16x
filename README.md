@@ -7,7 +7,7 @@
 
 - **Tenger16x**: Block Breaking animation, Main menu screen backgrounds
 - **WoolWars16x**: Some of the GUI (Containers, HUD)
-- **Skyline16x**: The rest of the GUI (menu buttons, newer Mojang logo, etc.), items, particles
+- **Skyline16x**: The rest of the GUI (menu buttons, newer Mojang logo, etc.), items
 - **Dimku's1k16x**: Block textures
 - **Helios16x**: Sun, moon, and water textures
 - **Skyline16x & ggmen16x**: cloud2.png and starfield03.png, respectively

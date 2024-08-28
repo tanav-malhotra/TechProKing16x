@@ -9,7 +9,7 @@
 - **WoolWars16x**: Some of the GUI (Containers, HUD)
 - **Skyline16x**: The rest of the GUI (menu buttons, newer Mojang logo, etc.), items
 - **Dimku's1k16x**: Block textures
-- **Helios16x**: Sun, moon, and water textures
+- **Helios16x**: Sun, moon, water, and lava textures
 - **Skyline16x & ggmen16x**: cloud2.png and starfield03.png, respectively
 - **DarkBlueNebula & DarkBlueRed**: The other skies (cloud1 and skybox + skybox2, respectively)
 - **Frinosx16-particles**: Particles
